@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "931647143098",
+    "project_id": "fir-app-ad52e",
+    "storage_bucket": "fir-app-ad52e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931647143098:android:5ef11ffdeaa8af41841683",
+        "android_client_info": {
+          "package_name": "com.programacionandroid.app_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931647143098-cs91mjoo4uh9ufgqsljumvh7vghr7q47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwpQ_FVcrQT6aga1taUQxECtOchxwtZ5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931647143098-cs91mjoo4uh9ufgqsljumvh7vghr7q47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
